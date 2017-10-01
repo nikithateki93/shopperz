@@ -1,14 +1,14 @@
 Shopizer 2.0.5 (for java 1.8)
 -------------------
 
-Java open source e-commerce software
+Java open source ecommerce software
 
 - Shopping cart
 - Catalogue
 - Search
 - Checkout
 - Administration
-
+- User
 
 To get the code:
 -------------------
