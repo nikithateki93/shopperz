@@ -1,7 +1,7 @@
 package com.salesmanager.core.model.reference.zone;
 
 import java.util.ArrayList;
-import java.utility.List;
+import java.util.List;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
